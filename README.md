@@ -297,6 +297,12 @@ server, allowing you to chain some RPC command immediately after.
 - [calibration network](https://forest.chainsafe.io/calibnet/snapshot-latest)
 - [main network](https://forest.chainsafe.io/mainnet/snapshot-latest)
 
+### Filecoin archival data link
+
+You can download the entire Filecoin archival data for calibration net and mainnet for free. This is being hosted by the ChainSafe Forest node.
+
+- [Filecoin archival data](https://forest-archive.chainsafe.dev/list/)
+
 ### Documentation
 
 - [Forest Book]
